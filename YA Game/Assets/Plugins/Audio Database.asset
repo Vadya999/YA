@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4645132edefd4c74968a0c941a98fb89, type: 3}
+  m_Name: Audio Database
+  m_EditorClassIdentifier: 
+  _items:
+  - Clip: {fileID: 8300000, guid: 07c9352499b2de542b1e14b70fc8a394, type: 3}
+    Key: Fon
+    FolderPath: Music\
+    Name: "\U0001F5A4\U0001F5A4\U0001F5A4 - phonk-sigma.mp3"
+    Preload: 1
+    _id: 1a864aa3-c631-4e3f-8667-8c086cd7ed64
+  - Clip: {fileID: 8300000, guid: a688bcc3a78450f408f4afaafc3eaeea, type: 3}
+    Key: Tap
+    FolderPath: Music\
+    Name: eject_text.mp3
+    Preload: 1
+    _id: 83e9f4fc-5036-49d6-979d-7c45bfc59ead
